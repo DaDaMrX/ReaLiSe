@@ -22,7 +22,7 @@ Wang271K: https://github.com/wdimmy/Automatic-Corpus-Generation
 ### Data Processing
 The code and cleaned data are in the `data_process` directory.
 
-You can also directly download the processed data from [this]() and put them in the `data` directory. The `data` directory would look like this:
+You can also directly download the processed data from [this](https://drive.google.com/drive/folders/1MPMWaP9iUoPZF0FjvkXq0WFWxozWgB1j) and put them in the `data` directory. The `data` directory would look like this:
 ```
 data
 |- trainall.times2.pkl
@@ -45,7 +45,7 @@ data
 - Graphic Encoder: `pretrain_res.sh`
 - Merge: `merge.py`
 
-You can also directly download the pretrained and merged BERT, Phonetic Encoder, and Graphic Encoder from [this](), and put them in the `pretrained` directory:
+You can also directly download the pretrained and merged BERT, Phonetic Encoder, and Graphic Encoder from [this](https://drive.google.com/drive/folders/14zQ6L6nAumuBqPO3hV3YzWJHHpTSJir2), and put them in the `pretrained` directory:
 ```
 pretrained
 |- pytorch_model.bin
@@ -69,7 +69,7 @@ sh test.sh
 
 ## Well-trained Model
 
-You can also download well-trained model from [this]() direct using. The performance scores of RealiSe and some baseline models on the SIGHAN13, SIGHAN14, SIGHAN15 test set are here:
+You can also download well-trained model from [this](https://drive.google.com/drive/folders/1CVUtRhjqwzkx_fi3DbFv4mQ3k2BS88x5) direct using. The performance scores of RealiSe and some baseline models on the SIGHAN13, SIGHAN14, SIGHAN15 test set are here:
 
 **Methods**
 - FASpell: [FASPell: A Fast, Adaptable, Simple, Powerful Chinese Spell Checker Based On DAE-Decoder Paradigm](https://www.aclweb.org/anthology/D19-5522/)
