@@ -112,7 +112,7 @@ You can also download well-trained model from [this](https://drive.google.com/dr
 | ReaLiSe          | 82.7 | 88.6 | 82.5 | 85.4 | 81.4 | 87.2 | 81.2 | 84.1 |
 
 ## Citation
-```
+```bibtex
 @misc{xu2021read,
       title={Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking}, 
       author={Heng-Da Xu and Zhongli Li and Qingyu Zhou and Chao Li and Zizhen Wang and Yunbo Cao and Heyan Huang and Xian-Ling Mao},
