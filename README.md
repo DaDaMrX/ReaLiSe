@@ -2,7 +2,9 @@
 
 ReaLiSe is a multi-modal Chinese spell checking model. 
 
-This the office code for the paper [Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking]().
+This the office code for the paper [Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking](https://arxiv.org/abs/2105.12306).
+
+The paper has been accepted in ACL Findings 2021.
 
 <img src="assets/model.jpg" width="65%">
 
@@ -111,4 +113,12 @@ You can also download well-trained model from [this](https://drive.google.com/dr
 
 ## Citation
 ```
+@misc{xu2021read,
+      title={Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking}, 
+      author={Heng-Da Xu and Zhongli Li and Qingyu Zhou and Chao Li and Zizhen Wang and Yunbo Cao and Heyan Huang and Xian-Ling Mao},
+      year={2021},
+      eprint={2105.12306},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
