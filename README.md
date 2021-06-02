@@ -24,7 +24,7 @@ Wang271K: https://github.com/wdimmy/Automatic-Corpus-Generation
 ### Data Processing
 The code and cleaned data are in the `data_process` directory.
 
-You can also directly download the processed data from [this](https://drive.google.com/drive/folders/1MPMWaP9iUoPZF0FjvkXq0WFWxozWgB1j) and put them in the `data` directory. The `data` directory would look like this:
+You can also directly download the processed data from [this](https://drive.google.com/drive/folders/1dC09i57lobL91lEbpebDuUBS0fGz-LAk) and put them in the `data` directory. The `data` directory would look like this:
 ```
 data
 |- trainall.times2.pkl
