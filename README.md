@@ -11,7 +11,11 @@ The paper has been accepted in ACL Findings 2021.
 ## Environment
 - Python: 3.6
 - Cuda: 10.0
-- Packages: `pip install -r requirements.txt`
+- Packages: 
+  ```shell
+  pip install --editable . 
+  pip install -r requirements.txt
+  ```
 
 ## Data
 
