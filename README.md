@@ -1,5 +1,7 @@
 # ReaLiSe
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iioSnail/ReaLiSe/blob/master/ReaLiSe_for_csc_Demo.ipynb) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-green)](https://huggingface.co/iioSnail/ReaLiSe-for-csc)
+
 ReaLiSe is a multi-modal Chinese spell checking model. 
 
 This the office code for the paper [Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking](https://arxiv.org/abs/2105.12306).
